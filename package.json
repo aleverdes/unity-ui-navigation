@@ -1,0 +1,17 @@
+{
+  "name": "com.aleverdes.unity-ui-navigation",
+  "author": "Alexander Travkin",
+  "displayName": "Unity UI Navigation",
+  "description": "Implementation of UI navigation with Tab-button",
+  "unity": "2019.1",
+  "version": "2022.2.22",
+  "keywords": [
+    "ui",
+    "navigation"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleVerDes/unity-ui-navigation.git"
+  }
+}

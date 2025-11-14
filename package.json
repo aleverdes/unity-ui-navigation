@@ -1,17 +1,38 @@
 {
   "name": "com.aleverdes.unity-ui-navigation",
   "author": "Alexander Travkin",
-  "displayName": "Unity UI Navigation",
-  "description": "Implementation of UI navigation with Tab-button",
+  "displayName": "Unity UI Navigation System",
+  "description": "A powerful, flexible, and extensible UI navigation system for Unity that provides keyboard, gamepad, and custom input navigation for user interfaces. Supports nested groups, modal dialogs, multiple input schemes, and advanced navigation modes.",
   "unity": "2019.1",
-  "version": "2022.2.22",
+  "version": "2.0.0",
   "keywords": [
     "ui",
-    "navigation"
+    "navigation",
+    "accessibility",
+    "keyboard",
+    "gamepad",
+    "input",
+    "modal",
+    "hierarchical"
   ],
   "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/AleVerDes/unity-ui-navigation.git"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Basic Navigation",
+      "description": "Basic navigation setup example",
+      "path": "Samples~/BasicNavigation"
+    },
+    {
+      "displayName": "Advanced Navigation",
+      "description": "Advanced features like nested groups and modal navigation",
+      "path": "Samples~/AdvancedNavigation"
+    }
+  ],
+  "documentationUrl": "https://github.com/AleVerDes/unity-ui-navigation/wiki",
+  "changelogUrl": "https://github.com/AleVerDes/unity-ui-navigation/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/AleVerDes/unity-ui-navigation/blob/main/LICENSE"
 }
